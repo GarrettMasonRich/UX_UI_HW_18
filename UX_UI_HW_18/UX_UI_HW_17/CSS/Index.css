@@ -1,0 +1,62 @@
+/* Navbar CSS */
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .logo { 
+    width: 23%;
+    padding: 1%;
+  }
+  
+  nav {
+    width: 73%;
+    padding: 1%;
+  }
+  .myLogo {
+width: 100px;
+height: 100px;
+  }
+
+
+  ul {
+    width: 50%;
+    margin-left: auto;
+  }
+  
+  /* Hero image CSS */
+  
+  .heroImg {
+    height: 600px;
+    padding: 25px;
+  }
+  
+  .content img {
+    height: 300px;
+    width: 200px;
+  }
+
+  
+  .content {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  /* Footer CSS */
+  
+  footer {
+    background-color: #373738;
+    padding: 10px;
+  }
+  
+  footer ul {
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  footer li {
+    padding: 10px;
+  }
+  
+  
